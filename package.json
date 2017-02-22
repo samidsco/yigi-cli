@@ -1,0 +1,9 @@
+{
+  "name": "yigi-cli",
+  "version": "1.0.0",
+  "description": "command line tool for yigi stack",
+  "main": "index.js",
+  "repository": "https://github.com/samidsco/yigi-cli.git",
+  "author": "Dmitry Trifonov <samid.sco@gmail.com>",
+  "license": "MIT"
+}
